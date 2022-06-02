@@ -1,36 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Rahul's CIT Minor Page 
 
-You can use the [editor on GitHub](https://github.com/rahulp217/CIT-Minor/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### About the Minor
+The minor in computer information technology prepares students to work with evolving technologies for work environments that require development and management of business databases, computer networks and information security, web applications, and software systems.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![Image](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60)
 
-### Markdown
+### CIT281 Project's
+-[Project 1](Project1)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-[Project 2](Project2)
 
-```markdown
-Syntax highlighted code block
+-[Project 3](Project3)
 
-# Header 1
-## Header 2
-### Header 3
+-[Project 4](Project4)
 
-- Bulleted
-- List
+-[Project 5](Project5)
 
-1. Numbered
-2. List
+-[Project 6](Project6)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rahulp217/CIT-Minor/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
