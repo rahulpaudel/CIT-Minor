@@ -6,7 +6,7 @@ The minor in computer information technology prepares students to work with evol
 ![Image](https://images.unsplash.com/photo-1503252947848-7338d3f92f31?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y29kaW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=800&q=60)
 
 ### CIT281 Project's
--[Project 1](Project1)
+-[Project 1]((https://rahulp217.github.io/CIT-P1/))
 
 -[Project 2](Project2)
 
